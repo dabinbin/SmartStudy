@@ -16,6 +16,10 @@ public class MainActivity extends Activity {
         //第一次提交代码测试
         String test = "test";
         Toast.makeText(this,test,Toast.LENGTH_SHORT).show();
+        //第2次提交代码测试
+        String test2 = "test2";
+        Toast.makeText(this,test2,Toast.LENGTH_SHORT).show();
+
     }
 
     @Override
